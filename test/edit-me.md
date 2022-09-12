@@ -17,18 +17,22 @@ A robot must protect its own existence as long as such protection does not confl
 ___
 
 👉 What is the Fourth Law of Robotics? (Feel free to make up something silly.) Write it on the next line.
+A robot should not operate of its own accord i.e. the machine should always be subject to a protective body that oversees its activities. 
 
 
-👉 Create a heading that says "Fourth Law of Robotics."
+👉 ### Fourth Law of Robotics
 
 
 👉 Paste your entry below and bold the first and last words of your entry.
-
+**A** robot should not operate of its own accord i.e. the machine should always be subject to a protective body that oversees its **activities**. 
 
 👉 Paste your entry below and italicize the second word of your entry.
-
+*A* robot should not operate of its own accord i.e. the machine should always be subject to a protective body that oversees its *activities*. 
 
 👉 Download the image in the test folder, robot.jpg. Then drag and drop the image from your computer into this document anywhere you like.
+
+![robot](https://user-images.githubusercontent.com/112436307/189771862-40f7fe77-555c-4412-a8ce-cb75c4e15583.jpg)
+
 
 
 👉 When you've completed all these steps, enter DONE into the bigger text box and commit your changes below.
